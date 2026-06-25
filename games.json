@@ -1,50 +1,194 @@
-{
-  "-b": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/-b.html",
-  "Bad Time Simulator": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Bad Time Simulator.html",
-  "Baldi Balds The Universe": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Baldi Balds The Universe.html",
-  "Baldi's Basics Plus": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Baldi's Basics Plus.html",
-  "Baldis Basics Classic Remastered": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Baldis Basics Classic Remastered.html",
-  "Bart Bash": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Bart Bash.html",
-  "Bart Blast": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Bart Blast.html",
-  "BloodMoney": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/BloodMoney.html",
-  "CaseOh's Basics in Eating and Fast Food": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/CaseOh's Basics in Eating and Fast Food.html",
-  "Cat Mario": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Cat Mario.html",
-  "Class of '09": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Class of '09.html",
-  "Cookie Clicker": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Cookie Clicker.html",
-  "CrazyCattle3D": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/CrazyCattle3D.html",
-  "CrazyChicken3D": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/CrazyChicken3D.html",
-  "Doki Doki Liturature Club": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Doki Doki Liturature Club.html",
-  "Doom": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Doom.html",
-  "Eaglercraft V1.8": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Eaglercraft V1.8.html",
-  "Eggy Car": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Eggy Car.html",
-  "Friday Night Funkin": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Friday Night Funkin.html",
-  "Gacha Life": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Gacha Life.html",
-  "Geometry Dash": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Geometry Dash.html",
-  "Going Balls": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Going Balls.html",
-  "Happy Wheels": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Happy Wheels.html",
-  "Jelly Mario": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Jelly Mario.html",
-  "Just Shapes and Beats": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Just Shapes and Beats.html",
-  "Minus THREE": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Minus THREE.html",
-  "osu!": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/osu!.html",
-  "OVO": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/OVO.html",
-  "People Playground": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/People Playground.html",
-  "Pizza Tower": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Pizza Tower.html",
-  "Pneumonoultramicroscopicsilicovolcanoconiosis": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Pneumonoultramicroscopicsilicovolcanoconiosis.html",
-  "Raldi's Crackhouse": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Raldi's Crackhouse.html",
-  "Sandboxels": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Sandboxels.html",
-  "Sprunki": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Sprunki.html",
-  "The Math Is Leaking": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/The Math Is Leaking.html",
-  "Three": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Three.html",
-  "t³ (T cubed)": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/t³ (T cubed).html",
-  "Undertale": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Undertale.html",
-  "UvuvwevwevweOnyetenvewveUgwemubwemOssas (Baldi Mod)": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas (Baldi Mod).html",
-  "We Become What We Behold": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/We Become What We Behold.html",
-  "WebFishing": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/WebFishing.html",
-  "Yume Nikki": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Yume Nikki.html",
-  "太鼓の達人DS タッチでドコドン！": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/太鼓の達人DS タッチでドコドン！.html",
-  "東方夢時空": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方夢時空.html",
-  "東方封魔録": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方封魔録.html",
-  "東方幻想郷": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方幻想郷.html",
-  "東方怪綺談": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方怪綺談.html",
-  "東方靈異伝": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方靈異伝.html"
-}
+[
+  {
+    "name": "-b",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/-b.html"
+  },
+  {
+    "name": "Bad Time Simulator",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Bad Time Simulator.html"
+  },
+  {
+    "name": "Baldi Balds The Universe",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Baldi Balds The Universe.html"
+  },
+  {
+    "name": "Baldi's Basics Plus",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Baldi's Basics Plus.html"
+  },
+  {
+    "name": "Baldis Basics Classic Remastered",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Baldis Basics Classic Remastered.html"
+  },
+  {
+    "name": "Bart Bash",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Bart Bash.html"
+  },
+  {
+    "name": "Bart Blast",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Bart Blast.html"
+  },
+  {
+    "name": "BloodMoney",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/BloodMoney.html"
+  },
+  {
+    "name": "CaseOh's Basics in Eating and Fast Food",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/CaseOh's Basics in Eating and Fast Food.html"
+  },
+  {
+    "name": "Cat Mario",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Cat Mario.html"
+  },
+  {
+    "name": "Class of '09",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Class of '09.html"
+  },
+  {
+    "name": "Cookie Clicker",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Cookie Clicker.html"
+  },
+  {
+    "name": "CrazyCattle3D",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/CrazyCattle3D.html"
+  },
+  {
+    "name": "CrazyChicken3D",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/CrazyChicken3D.html"
+  },
+  {
+    "name": "Doki Doki Liturature Club",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Doki Doki Liturature Club.html"
+  },
+  {
+    "name": "Doom",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Doom.html"
+  },
+  {
+    "name": "Eaglercraft V1.8",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Eaglercraft V1.8.html"
+  },
+  {
+    "name": "Eggy Car",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Eggy Car.html"
+  },
+  {
+    "name": "Friday Night Funkin",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Friday Night Funkin.html"
+  },
+  {
+    "name": "Gacha Life",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Gacha Life.html"
+  },
+  {
+    "name": "Geometry Dash",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Geometry Dash.html"
+  },
+  {
+    "name": "Going Balls",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Going Balls.html"
+  },
+  {
+    "name": "Happy Wheels",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Happy Wheels.html"
+  },
+  {
+    "name": "Jelly Mario",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Jelly Mario.html"
+  },
+  {
+    "name": "Just Shapes and Beats",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Just Shapes and Beats.html"
+  },
+  {
+    "name": "Minus THREE",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Minus THREE.html"
+  },
+  {
+    "name": "osu!",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/osu!.html"
+  },
+  {
+    "name": "OVO",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/OVO.html"
+  },
+  {
+    "name": "People Playground",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/People Playground.html"
+  },
+  {
+    "name": "Pizza Tower",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Pizza Tower.html"
+  },
+  {
+    "name": "Pneumonoultramicroscopicsilicovolcanoconiosis",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Pneumonoultramicroscopicsilicovolcanoconiosis.html"
+  },
+  {
+    "name": "Raldi's Crackhouse",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Raldi's Crackhouse.html"
+  },
+  {
+    "name": "Sandboxels",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Sandboxels.html"
+  },
+  {
+    "name": "Sprunki",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Sprunki.html"
+  },
+  {
+    "name": "The Math Is Leaking",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/The Math Is Leaking.html"
+  },
+  {
+    "name": "Three",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Three.html"
+  },
+  {
+    "name": "t³ (T cubed)",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/t³ (T cubed).html"
+  },
+  {
+    "name": "Undertale",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Undertale.html"
+  },
+  {
+    "name": "UvuvwevwevweOnyetenvewveUgwemubwemOssas (Baldi Mod)",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas (Baldi Mod).html"
+  },
+  {
+    "name": "We Become What We Behold",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/We Become What We Behold.html"
+  },
+  {
+    "name": "WebFishing",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/WebFishing.html"
+  },
+  {
+    "name": "Yume Nikki",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/Yume Nikki.html"
+  },
+  {
+    "name": "太鼓の達人DS タッチでドコドン！",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/太鼓の達人DS タッチでドコドン！.html"
+  },
+  {
+    "name": "東方夢時空",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方夢時空.html"
+  },
+  {
+    "name": "東方封魔録",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方封魔録.html"
+  },
+  {
+    "name": "東方幻想郷",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方幻想郷.html"
+  },
+  {
+    "name": "東方怪綺談",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方怪綺談.html"
+  },
+  {
+    "name": "東方靈異伝",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/turbo-meme/refs/heads/main/東方靈異伝.html"
+  }
+]
