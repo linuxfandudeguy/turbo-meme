@@ -1,4 +1,4 @@
-name: Generate JSON
+name: Games JSON
 
 on:
   push:
@@ -12,32 +12,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Generate JSON
+      - name: Generate games.json
         run: |
           python << 'EOF'
           import json
           import os
 
-          REPO = os.environ["GITHUB_REPOSITORY"]
+          repo = os.environ["GITHUB_REPOSITORY"]
 
-          data = {}
+          games = []
 
           for file in os.listdir("."):
               if file.endswith(".html"):
-                  name = file[:-5]
-                  data[name] = f"https://raw.githubusercontent.com/{REPO}/refs/heads/main/{file}"
+                  games.append({
+                      "name": file[:-5],
+                      "url": f"https://raw.githubusercontent.com/{repo}/refs/heads/main/{file}"
+                  })
 
-          # Sort alphabetically by game name
-          data = dict(sorted(data.items(), key=lambda x: x[0].lower()))
+          games.sort(key=lambda x: x["name"].lower())
 
           with open("games.json", "w", encoding="utf-8") as f:
-              json.dump(data, f, indent=2, ensure_ascii=False)
+              json.dump(games, f, indent=2, ensure_ascii=False)
 
+          print(f"Generated games.json with {len(games)} entries")
           EOF
 
-      - name: Commit Changes
+      - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -45,7 +48,7 @@ jobs:
           git add games.json
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No changes to commit"
           else
             git commit -m "Update games.json"
             git push
